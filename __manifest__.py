@@ -1,5 +1,5 @@
 {
-    'name': 'Avaible create or edit invoice',
+    'name': 'avaible_create_or_edit_invoice',
     'summary': """Avaible create or edit invoice""",
     'version': '12.0.1.0.0',
     'description': """Avaible create or edit invoice""",
