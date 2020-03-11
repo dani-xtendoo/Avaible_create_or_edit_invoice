@@ -1,8 +1,8 @@
 {
-    'name': 'avaible_create_or_edit_invoice',
-    'summary': """Avaible create or edit invoice""",
+    'name': 'avaible_user_create_invoice',
+    'summary': """Avaible User Create Invoice""",
     'version': '12.0.1.0.0',
-    'description': """Avaible create or edit invoice""",
+    'description': """Avaible User create Invoice""",
     'author': 'DDL',
     'company': 'Xtendoo',
     'website': 'http://www.xtendoo.com',
